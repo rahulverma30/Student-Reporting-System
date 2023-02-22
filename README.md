@@ -9,4 +9,4 @@ after adding the students we can see the report of students
 3) Top student from class
  
 I have used the Java language to make this project,
-In this project I used the linked list data structure to store the data of students.
+ I used the linked list data structure to store the data of students.
